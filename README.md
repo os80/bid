@@ -1,1 +1,1 @@
-# bid
+# bid is online
